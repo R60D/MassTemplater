@@ -1,5 +1,5 @@
 # MassTemplater
-A tool that creates a callable array of point_template/env_entity_maker locations/orientation* inside the point_template/env_entity_maker output operators (for source hammer editor)
+A tool for source hammer editor that creates a list of point_template/env_entity_maker locations/orientations* extracted from a user defined target set. This information is stored inside the point_template/env_entity_maker entity in the form of OnUser1 outputs.(for source hammer editor)
 
 *orientation copy only works if the target entity has a Pitch Yaw Roll (Y Z X) parameter
 
